@@ -9,7 +9,7 @@
        .*****%.     %%%    %    %%%%%****     Shell: zsh  
        ******%.  %%%%%%%  (%*  %%%%%%**       Editor: VSCodium, nano
        ******%%%%%%%%%%%%%%%%%%%%%%%%         Interests: Linux, Compilers, VMs, "Lower-Level Stuff" 
-      *******%%%%%%%%%%%%%%%%%%%%%%%%         Top Project: CSpydr (a statically typed, compiled programming language written in pure C)
+      *******%%%%%%%%%%%%%%%%%%%%%%%%         Top Projects: CSpydr,
       *******%%%%%%%%%%%%%%%%%%%%%%%%*****,   Dotfiles: https://github.com/spydr06/dotfiles.git
      ,*******%%%%%%%%%%%%%%%%%%%%%%%%*******    
       *******%%________%%%%%%%%%%%%%%******     
