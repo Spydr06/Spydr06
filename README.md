@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**Spydr06/Spydr06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+~$ neofetch   
+                    *.                        Spydr06@Germany   
+                **********          ****      ----------------
+            ****************************,     Uptime: 15 years
+         ****%%%%%%%%%%%%%%%%%%%%%%%%*****    ProgrammingLanguages: CSpydr, C, Rust, Java
+        *****%.      %  %%, /%%  %%%%******   OS: Arch Linux
+        *****%.  %%%%%%  %   %  %%%%%******   WM: bspwm
+       .*****%.     %%%    %    %%%%%****     Shell: zsh  
+       ******%.  %%%%%%%  (%*  %%%%%%**       Editor: VSCodium, nano
+       ******%%%%%%%%%%%%%%%%%%%%%%%%         Interests: Linux, Compilers, VMs, "Lower-Level Stuff" 
+      *******%%%%%%%%%%%%%%%%%%%%%%%%         Top Project: CSpydr (a statically typed, compiled programming language written in pure C)
+      *******%%%%%%%%%%%%%%%%%%%%%%%%*****,   Dotfiles: https://github.com/spydr06/dotfiles.git
+     ,*******%%%%%%%%%%%%%%%%%%%%%%%%*******    
+      *******%%________%%%%%%%%%%%%%%******     
+         ****%%%%%%%%%%%%%%%%%%%%%%%%*****    contacts  
+             **********  ****************     --------
+                ****        .***********      Reddit: u/mcspiderfe
+                                      *.        
+```
