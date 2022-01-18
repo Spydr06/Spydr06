@@ -3,7 +3,7 @@
                     *.                         Spydr06@Germany   
                 **********          ****       ----------------
             ****************************,      Uptime: 15 years
-         ****%%%%%%%%%%%%%%%%%%%%%%%%*****     ProgrammingLanguages: CSpydr, C, Rust, Java
+         ****%%%%%%%%%%%%%%%%%%%%%%%%*****     Programming Languages: CSpydr, C, Rust, Java
         *****%.      %  %%, /%%  %%%%******    OS: Arch Linux
         *****%.  %%%%%%  %   %  %%%%%******    WM: bspwm
        .*****%.     %%%    %    %%%%%****      Shell: zsh  
