@@ -5,7 +5,7 @@
             ****************************,       Uptime: 16 years
          ****%%%%%%%%%%%%%%%%%%%%%%%%%*****     Programming Languages: CSpydr, C, C++, Rust,
         *****%.      %  %%, /%%  %%%%%******                           Go, V, Java, x86 Assembly
-        *****%.  %%%%%%  %   %  %%%%%%******    OS: Arch Linux, Fedora
+        *****%.  %%%%%%  %   %  %%%%%%******    OS: Gentoo Linux, Fedora
        .*****%.     %%%    %    %%%%%%****      WM: bspwm, GNOME
        ******%.  %%%%%%%  (%*  %%%%%%%**        Shell: bash, zsh
        ******%%%%%%%%%%%%%%%%%%%%%%%%%          Editor: VSCodium, nano, Emacs
