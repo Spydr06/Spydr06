@@ -3,14 +3,14 @@
                     *.                          Spydr06@Germany   
                 **********          ****        ----------------
             ****************************,       Uptime: 17 years
-         ****%%%%%%%%%%%%%%%%%%%%%%%%%*****     Programming Languages: CSpydr, C, C++, Rust,
+         ****%%%%%%%%%%%%%%%%%%%%%%%%%*****     Programming Languages: CSpydr, C, C++, Rust, Haskell
         *****%.      %  %%, /%%  %%%%%******                           Go, V, Java, x86 Assembly
-        *****%.  %%%%%%  %   %  %%%%%%******    OS: Gentoo Linux, Fedora
+        *****%.  %%%%%%  %   %  %%%%%%******    OS: Gentoo Linux, Debian [unstable]
        .*****%.     %%%    %    %%%%%%****      WM: bspwm, GNOME
-       ******%.  %%%%%%%  (%*  %%%%%%%**        Shell: bash, zsh
-       ******%%%%%%%%%%%%%%%%%%%%%%%%%          Editor: VSCodium, nano, Emacs
-      *******%%%%%%%%%%%%%%%%%%%%%%%%%          Interests: Linux, Compilers, VMs, OSes, "Low-Level Stuff"
-      *******%%%%%%%%%%%%%%%%%%%%%%%%%*****,    Top Project: CSpydr, LogicRs, BCause, V
+       ******%.  %%%%%%%  (%*  %%%%%%%**        Shell: bash
+       ******%%%%%%%%%%%%%%%%%%%%%%%%%          Editor: NeoVim, VSCodium
+      *******%%%%%%%%%%%%%%%%%%%%%%%%%          Interests: Linux, Compilers, VMs, OSes, FP, "Low-Level Stuff"
+      *******%%%%%%%%%%%%%%%%%%%%%%%%%*****,    Top Projects: CSpydr, LogicRs, BCause, V
      ,*******%%%%%%%%%%%%%%%%%%%%%%%%%*******   Dotfiles: https://github.com/spydr06/dotfiles.git
       *******%%________%%%%%%%%%%%%%%%******    
          ****%%%%%%%%%%%%%%%%%%%%%%%%%*****     Contacts  
