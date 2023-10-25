@@ -5,7 +5,7 @@
             ****************************,       Uptime: 17 years
          ****%%%%%%%%%%%%%%%%%%%%%%%%%*****     Programming Languages: CSpydr, C, C++, Rust, Haskell
         *****%.      %  %%, /%%  %%%%%******                           Go, V, Java, x86 Assembly
-        *****%.  %%%%%%  %   %  %%%%%%******    OS: Gentoo Linux, Debian [unstable]
+        *****%.  %%%%%%  %   %  %%%%%%******    OS: Gentoo Linux, NixOS
        .*****%.     %%%    %    %%%%%%****      WM: bspwm, GNOME
        ******%.  %%%%%%%  (%*  %%%%%%%**        Shell: bash
        ******%%%%%%%%%%%%%%%%%%%%%%%%%          Editor: NeoVim, VSCodium
