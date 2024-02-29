@@ -2,7 +2,7 @@
 ~$ neofetch   
                     *.                          Spydr06@Germany   
                 **********          ****        ----------------
-            ****************************,       Uptime: 17 years
+            ****************************,       Uptime: 18 years
          ****%%%%%%%%%%%%%%%%%%%%%%%%%*****     Programming Languages: CSpydr, C, C++, Rust, Haskell
         *****%.      %  %%, /%%  %%%%%******                           Go, V, Java, x86 Assembly
         *****%.  %%%%%%  %   %  %%%%%%******    OS: Gentoo Linux, NixOS
