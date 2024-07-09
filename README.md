@@ -20,7 +20,7 @@
      ▄██▀    ██▄▄██     Shell: bash
      ██▀      ▀██▀      Editor: NeoVim, VSCodium
                         Interests: Linux, Compilers, VMs, OSes, FP, "Low-Level Stuff"
-                        Top Projects: CSpydr, LogicRs, BCause, V
+                        Top Projects: CSpydr, Amethyst, LogicRs, BCause, V
                         Dotfiles: https://github.com/spydr06/dotfiles.git
 ~$ _
 ```
