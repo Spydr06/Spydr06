@@ -12,7 +12,7 @@
 ~$ neofetch
      ▄████▄             Spydr06@127.0.0.1
     ███  ██▄            -----------------
-    ▀▀    ██▄           Uptime: 19 years
+    ▀▀    ██▄           Uptime: 20 years
            ██           Programming Languages: C, C++, Rust, Haskell, Java, x86_64 Assembly
           ████          OS: Gentoo Linux (PC), NixOS (ThinkPad)
         ██████▄         VM: bspwm, KDE
